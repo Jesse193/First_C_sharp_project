@@ -1,0 +1,15 @@
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/bin/Debug/net7.0/C#learning
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/bin/Debug/net7.0/C#learning.deps.json
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/bin/Debug/net7.0/C#learning.runtimeconfig.json
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/bin/Debug/net7.0/C#learning.dll
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/bin/Debug/net7.0/C#learning.pdb
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.csproj.AssemblyReference.cache
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.AssemblyInfoInputs.cache
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.AssemblyInfo.cs
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.csproj.CoreCompileInputs.cache
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.dll
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/refint/C#learning.dll
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.pdb
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/C#learning.genruntimeconfig.cache
+/Users/jessesorman/Documents/turing_work/4mod/C#learning/obj/Debug/net7.0/ref/C#learning.dll
